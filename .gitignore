@@ -8,3 +8,15 @@ settings.ini
 CMakeUserPresets.json
 .cache/
 .idea/
+
+
+
+# Build output directories
+bin/
+bin-int/
+
+# Visual Studio project and solution files
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
